@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env
+
+.vscode
+.idea
+
+build/
+life-data/
+work/
+target/
+.git/
+node_modules/
+test/integration/data/output
+dist/
+*.log
+*.bak.js
+*.bak
+.DS_STORE
+dump.rdb
+test-results.xml
+
+deploy/.npmrc
+deploy/yarn.lock
+deploy/terraform/run.zip
+run.zip
+
+package-lock.json

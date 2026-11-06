@@ -1,0 +1,6 @@
+/.editorconfig
+/.travis*
+/test/
+/target/
+/examples/
+build.sh
